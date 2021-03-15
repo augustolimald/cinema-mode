@@ -1,0 +1,11 @@
+{
+  "name": "cinema-mode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "colorthief": "^2.3.2",
+    "desktop-screenshot": "^0.1.1",
+    "magic-home": "^2.6.1"
+  }
+}
